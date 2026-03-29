@@ -2,11 +2,11 @@
 
 **Data Science Learner | DSA in Java | Web Developer(Django)**
 
-- 🔭 **Currently working on: DSA in Java (LeetCode + GFG)
-- 🌱 **Currently learning: Data Science fundamentals, Python, and problem-solving
-- 💡 **Core Skills: Java, DSA, Python, HTML, CSS, JavaScript
-- 🎯 **Goal: Become a Data Scientist with strong coding + analytical skills
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 Currently working on: DSA in Java (LeetCode + GFG)
+- 🌱 Currently learning: Data Science fundamentals, Python, and problem-solving
+- 💡 Core Skills: Java, DSA, Python, HTML, CSS, JavaScript
+- 🎯 Goal: Become a Data Scientist with strong coding + analytical skills
+- ⚡ Fun fact: I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/renuka-nayak-135857377) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/imrenuka_nyk124)
 
